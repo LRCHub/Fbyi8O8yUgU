@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "クリスマスキャロルの頃には",
+  "base_artist": "稲垣潤一",
+  "createdAt": "2025-12-01T13:15:57.459238Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "稲垣潤一",
+      "has_synced": true,
+      "path": "select/01_クリスマスキャロルの頃には_稲垣潤一.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "稲垣潤一",
+      "has_synced": true,
+      "path": "select/02_クリスマスキャロルの頃には_稲垣潤一.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "Highlight",
+      "has_synced": false,
+      "path": "select/03_クリスマスキャロルの頃には_Highlight.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "Junichi Inagaki",
+      "has_synced": true,
+      "path": "select/04_クリスマスキャロルの頃には_Junichi_Inagaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には - NORTH FLOW",
+      "artist": "Monkey Majik",
+      "has_synced": true,
+      "path": "select/05_クリスマスキャロルの頃には_-_NORTH_FLOW_Monkey_Majik.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "Junichi Inagaki",
+      "has_synced": true,
+      "path": "select/06_クリスマスキャロルの頃には_Junichi_Inagaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には (カヴァー)",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/07_クリスマスキャロルの頃には_(カヴァー)_BEAST.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/08_クリスマスキャロルの頃には_BEAST.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には -NORTH FLOW-",
+      "artist": "MONKEY MAJIK",
+      "has_synced": true,
+      "path": "select/09_クリスマスキャロルの頃には_-NORTH_FLOW-_MONKEY_MAJIK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には -NORTH FLOW-",
+      "artist": "MONKEY MAJIK × 稲垣潤一 × GAGLE",
+      "has_synced": false,
+      "path": "select/10_クリスマスキャロルの頃には_-NORTH_FLOW-_MONKEY_MAJIK_×_稲垣潤一_×_GAGLE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "クリスマスキャロルの頃には (オリジナル・カラオケ)",
+      "artist": "Junichi Inagaki",
+      "has_synced": true,
+      "path": "select/11_クリスマスキャロルの頃には_(オリジナル・カラオケ)_Junichi_Inagaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "BEAST",
+      "has_synced": false,
+      "path": "select/pl_01_クリスマスキャロルの頃には_BEAST.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "BEAST",
+      "has_synced": false,
+      "path": "select/pl_02_クリスマスキャロルの頃には_BEAST.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "BEAST",
+      "has_synced": false,
+      "path": "select/pl_03_クリスマスキャロルの頃には_BEAST.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "BEAST",
+      "has_synced": false,
+      "path": "select/pl_04_クリスマスキャロルの頃には_BEAST.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "クリスマスキャロルの頃には",
+      "artist": "BEAST",
+      "has_synced": false,
+      "path": "select/pl_05_クリスマスキャロルの頃には_BEAST.txt"
+    }
+  ]
+}
